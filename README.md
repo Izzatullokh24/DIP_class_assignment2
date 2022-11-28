@@ -1,4 +1,5 @@
-# DIP_Project 2
+# DIP_Project 1:
+https://github.com/Izzatullokh24/DIP_Class
 
 ## Goals
 The re-produced algorithm MUST work given a video as input 
