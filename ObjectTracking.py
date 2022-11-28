@@ -1,7 +1,7 @@
 import cv2
 import cvzone
 import statistics
-cap=cv2.VideoCapture("forproject.mp4")
+cap=cv2.VideoCapture("0")
 f=[]
 fpsr=cvzone.FPS()
 success, img = cap.read()
